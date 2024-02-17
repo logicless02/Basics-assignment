@@ -1,0 +1,10 @@
+	
+
+   Q-4
+
+	int a=4;
+	int b=5;
+	a++,b--;
+	cout << ++a << " " << b--;
+
+  Ans-4 The output of this program is 6 followed by 4 (6,4).

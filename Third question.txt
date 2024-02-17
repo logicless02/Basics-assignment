@@ -1,0 +1,11 @@
+    
+
+
+
+  
+
+
+
+              1.  int datatype takes 1 byte.
+              2.  bool datatype takes 1 byte.
+              3.  float datatype take 4 bytes.

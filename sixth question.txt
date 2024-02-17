@@ -1,0 +1,16 @@
+                      
+
+
+
+
+
+
+     1.      01Pwskills can not be a var name.
+     
+     2.	     _FLOAT can be a var name.
+
+     3.	     int can not be a var name.
+
+     4.	     FLOAT can be a var name.
+
+     5.      you will succeded can not be a var name.
